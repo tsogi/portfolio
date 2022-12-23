@@ -1,0 +1,68 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@media only screen and (min-width: 0px) {
+  .projectsList {
+    width: 100%;
+  }
+
+  .projectItemContainer {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 576px) {
+  .projectsList {
+    width: 540px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .projectsList {
+    width: 720px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .projectsList {
+    width: 960px;
+  }
+
+  .projectItemContainer {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .projectsList {
+    width: 1140px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .projectsList {
+    width: 1320px;
+  }
+
+  .projectItemContainer {
+    width: 33.33%;
+  }
+}

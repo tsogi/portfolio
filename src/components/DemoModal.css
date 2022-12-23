@@ -1,0 +1,41 @@
+.demoModal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0 0 0 / 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+.demoWindow {
+    width: 70%;
+    height: 70%;
+    background-color: black;
+    border-radius: 6px;
+    position: relative;
+}
+
+.closeBtn {
+    color: white;
+    font-size: 2.2rem;
+    position: absolute;
+    right: 12px;
+    top: 0px;
+    cursor: pointer;
+}
+
+.iframeWrapper {
+    width: 100%;
+    height: 100%;
+    padding: 35px;
+    box-sizing: border-box;
+}
+
+.iframeWrapper iframe {
+    border-radius: 6px;
+    border: none;
+}
