@@ -1,23 +1,21 @@
 export const projectsList = [
-    // {
-    //     name: "Storyline game",
-    //     description: "The game is about guessing trends. Users have to guess statistical info based on years",
-    //     demo: [
-    //         { name: "video", link: 'https://www.youtube.com/embed/Ap830EuU7RA' },
-    //         { name: "live", link: 'https://myauto.ge' },
-    //     ]
-    // },
-    
-
-
-
     {
-        name: "Related nodes",
-        description: "Visualisation showing relationships between families and people",
-        cover: "images/projects/related.png",
+        name: "Animated bubble chart",
+        description: "The app displays most popular NFTs and their stock price changes",
+        cover: "images/projects/bubble.png",
         technologies: [ { name: "javascript" }, { name: "d3"}, { name: "canvas" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://tsogi.net/d3/forced-nodes/", },
+            { name: "live", link: "https://bubble-three.vercel.app", },
+            { name: "video", link: "https://www.youtube.com/embed/CPNSPGxKN5o", },
+        ]
+    },
+    {
+        name: "Flavor Wheel",
+        description: "Flavor wheel for coffee lovers",
+        cover: "images/projects/wheel.png",
+        technologies: [{ name: "php"}, { name: "laravel" }, { name: "javascript" }, { name: "react"}, { name: "d3" }, { name: "svg" }, { name: "html" }, { name: "css" } ],
+        demos: [
+            { name: "live", link: "https://wheel.tsogi.net", },
         ]
     },
     {
@@ -26,8 +24,8 @@ export const projectsList = [
         cover: "images/projects/covid.png",
         technologies: [ { name: "javascript" }, { name: "d3"}, { name: "svg" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://tsogi.net/d3/coronavirus", },
-            { name: "video", link: "https://www.youtube.com/embed/QvYQtRaLwA4?autoplay=1&mute=1&loop=1&playlist=QvYQtRaLwA4" }
+            { name: "live", link: "https://covid.tsogi.net", },
+            { name: "video", link: "https://youtube.com/embed/t7-krRH3ONU" }
         ]
     },
     {
@@ -46,7 +44,8 @@ export const projectsList = [
         cover: "images/projects/flats.png",
         technologies: [ { name: "javascript" }, { name: "nextjs" }, { name: "aws" }, { name: "mysql"}, { name: "d3"}, { name: "svg" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "video", link: "https://www.youtube.com/embed/lZX8oA0GXBU?autoplay=1&mute=1&loop=1&playlist=lZX8oA0GXBU", }
+            { name: "live", link: "https://kvg.gehome.ge", },
+            { name: "video", link: "https://www.youtube.com/embed/lZX8oA0GXBU", }
         ]
     },
     {
@@ -55,16 +54,17 @@ export const projectsList = [
         cover: "images/projects/equipment.png",
         technologies: [ { name: "javascript" }, { name: "d3"}, { name: "svg" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://tsogi.net/d3/graphHierarchy/", },
+            { name: "live", link: "https://hierarchy.tsogi.net", },
+            { name: "video", link: "https://www.youtube.com/embed/sG-vJUfbz30", }
         ]
     },
     {
-        name: "Analogue clock",
-        description: "",
-        cover: "images/projects/analogue.png",
-        technologies: [ { name: "javascript" }, { name: "d3" }, { name: "svg" }, { name: "html" }, { name: "css" } ],
+        name: "Related nodes",
+        description: "Visualisation showing relationships between families and people",
+        cover: "images/projects/related.png",
+        technologies: [ { name: "javascript" }, { name: "d3"}, { name: "canvas" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://tsogi.net/d3/analog-clock", },
+            { name: "live", link: "https://circles.tsogi.net", },
         ]
     },
 ]

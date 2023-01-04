@@ -38,4 +38,5 @@
 .iframeWrapper iframe {
     border-radius: 6px;
     border: none;
+    background-color: white;
 }
