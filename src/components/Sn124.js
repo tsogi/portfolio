@@ -1,8 +1,8 @@
 function Sn124(props){
     return <div style={{margin: "40px"}} className="sn124">
-        <div>
-            <span></span>
-            <span></span>
+        <div style={{ fontSize: "1.3rem", marginBottom: "60px" }}>
+            <span>ფეისბუქის ჯგუფი: </span>
+            <span>https://www.facebook.com/groups/190358860420964</span>
         </div>
         <div>
             <h3>პროექტები</h3>
