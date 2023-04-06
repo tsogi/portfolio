@@ -44,7 +44,7 @@ export const projectsList = [
         cover: "images/projects/flats.png",
         technologies: [ { name: "javascript" }, { name: "nextjs" }, { name: "aws" }, { name: "mysql"}, { name: "d3"}, { name: "svg" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://kvg.gehome.ge", },
+            { name: "live", link: "https://flat-selector-next-git-kvg-tsogi.vercel.app", },
             { name: "video", link: "https://www.youtube.com/embed/lZX8oA0GXBU", }
         ]
     },
