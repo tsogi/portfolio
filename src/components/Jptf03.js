@@ -164,7 +164,7 @@ function Jptf03(props){
                     <h2 class="profile-username">ხუციშვილი საბა</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/lW0gHEBYv2EAWmZuBK1jJu/Free-Travel-Design-Template-(Community)?node-id=0-1&t=j5fxE69V8kMJHiX2-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary">Website</a>
+                        <a href="https://mrn1mbus.github.io/projectsaba.github.io/" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
             </section>
