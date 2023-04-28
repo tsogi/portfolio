@@ -40,3 +40,18 @@
     transform: rotate(360deg);
   }
 }
+
+.groupA {
+  font-size: 2rem;
+  color: #6464c9;
+}
+
+.studentsLabel {
+    font-size: 3rem;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.aDivider {
+
+}

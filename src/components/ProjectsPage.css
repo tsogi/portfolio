@@ -13,6 +13,7 @@
 .projectsList {
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 200px;
 }
 
 .projectItemContainer {
