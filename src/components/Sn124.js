@@ -122,7 +122,7 @@ function Sn124(props){
                     <h2 class="profile-username">კოტაშვილი ალეკო</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/cR12A4QnCluY8ZKqDt6nK7/Golobe---Travel-agency-website-(Community)?node-id=108-18842&t=gR5XBfkFqpLzxAEu-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://alexsius.netlify.app" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">

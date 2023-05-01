@@ -124,7 +124,7 @@ function Jptf03(props){
                     <h2 class="profile-username">მიდელაური საბა</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/mNCseShKqjWL1IcnFzKwlR/Website-Template-%7C-Skydrone-(Community)?node-id=304-14049&t=WW3Rhp9XNdHTNdf6-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary disabled">Website</a>
+                        <a href="sab1k0.github.io/Sab" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
