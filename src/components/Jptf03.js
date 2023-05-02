@@ -34,7 +34,7 @@ function Jptf03(props){
                     <h2 class="profile-username">ახალაია თემურ</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/KiwbV0gGBzOa5Pzo7KGQqe/Client-first-Template-9---Webflow-Agency-(Community)-(Community)?node-id=0-1&t=9B3Hp20J8VJ1ptaB-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary disabled">Website</a>
+                        <a href="https://temo827.github.io/First-Project/" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
