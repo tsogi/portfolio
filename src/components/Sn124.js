@@ -132,7 +132,7 @@ function Sn124(props){
                     <h2 class="profile-username">ნატროშვილი ლუკა</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/lW0gHEBYv2EAWmZuBK1jJu/Free-Travel-Design-Template-(Community)?node-id=0-1&t=j5fxE69V8kMJHiX2-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://natrosha.netlify.app/" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
@@ -142,7 +142,7 @@ function Sn124(props){
                     <h2 class="profile-username">რუხაძე ელენე</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/lYpu7kcPSHR3CVjpJrSo0s/Website-Event-Ticketing-(Community)?node-id=0-1&t=Uc8DMcztW9o9UJuE-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://elenerukhadze.github.io/my_first_project/" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
