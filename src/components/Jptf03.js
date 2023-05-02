@@ -84,7 +84,7 @@ function Jptf03(props){
                     <h2 class="profile-username">კონსტანტინე ფარფალია</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/pHsb1fRdCbx67Qbm1pAEbq/Slab-Shop---E-Commerce-(Community)?node-id=0-1&t=QCOw1Abznf56D4EV-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary disabled">Website</a>
+                        <a href="" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
@@ -114,7 +114,7 @@ function Jptf03(props){
                     <h2 class="profile-username">ლიპარტია ნიკოლოზი</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/65J3wD94odm2fUo8PzWO7g/Landing-Page-(Community)?node-id=101-11&t=MrQANENmBLfbbyZu-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary disabled">Website</a>
+                        <a href="https://nikalipartia.github.io/project" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
@@ -154,7 +154,7 @@ function Jptf03(props){
                     <h2 class="profile-username">ხელიძე გიორგი</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/4rFfvsStZrj8rQHA5UaTVL/E-Commerce-Website-(Community)?node-id=0-1&t=tgV3pEK68i4TQ2ZI-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary disabled">Website</a>
+                        <a href="https://xelidze.github.io/Prjct" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
@@ -164,7 +164,7 @@ function Jptf03(props){
                     <h2 class="profile-username">ხუციშვილი საბა</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/lW0gHEBYv2EAWmZuBK1jJu/Free-Travel-Design-Template-(Community)?node-id=0-1&t=j5fxE69V8kMJHiX2-0" class="btn btn--primary">Figma</a>
-                        <a href="https://mrn1mbus.github.io/projectsaba.github.io/" target="_blank"  class="btn btn--primary">Website</a>
+                        <a href="https://mrn1mbus.github.io/finale" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
             </section>
