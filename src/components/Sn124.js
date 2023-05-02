@@ -62,7 +62,7 @@ function Sn124(props){
                     <h2 class="profile-username">ისმაილოვი რაულ</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/4rFfvsStZrj8rQHA5UaTVL/E-Commerce-Website-(Community)?node-id=0-1&t=tgV3pEK68i4TQ2ZI-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://koyoshikono.github.io/projectready" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
