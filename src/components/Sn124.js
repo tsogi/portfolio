@@ -172,7 +172,7 @@ function Sn124(props){
                     <h2 class="profile-username">წერეთელი გიორგი</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/EQNUlaDm4Kxv6fRUCQua8Y/Agriculture-Webflow-Website-Template-(Community)?node-id=1-430&t=rMTEX7Q2kE4Mdwai-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://tsereteli1.netlify.app" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
             </section>
