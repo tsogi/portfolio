@@ -84,7 +84,7 @@ function Jptf03(props){
                     <h2 class="profile-username">კონსტანტინე ფარფალია</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/pHsb1fRdCbx67Qbm1pAEbq/Slab-Shop---E-Commerce-(Community)?node-id=0-1&t=QCOw1Abznf56D4EV-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank"  class="btn btn--primary">Website</a>
+                        <a href="https://kkonstantinee.github.io/SlapShop/" target="_blank"  class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
