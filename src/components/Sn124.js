@@ -42,7 +42,7 @@ function Sn124(props){
                     <h2 class="profile-username">გოგოლაძე გიორგი</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/3ghP8rfj2zrfiuN2GlgVE0/2023-Audi-RS-e-tron%C2%AE-GT-Landing-Page-(Community)?node-id=0-1&t=P1aIOKVUHEJU1F4K-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://giorgi-18.github.io/New-AUDI-REP/" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
@@ -72,7 +72,7 @@ function Sn124(props){
                     <h2 class="profile-username">კალანდაძე საბა</h2>
                     <div class="profile-actions">
                         <a target="_blank" href="https://www.figma.com/file/65J3wD94odm2fUo8PzWO7g/Landing-Page-(Community)?node-id=101-11&t=MrQANENmBLfbbyZu-0" class="btn btn--primary">Figma</a>
-                        <a href="" target="_blank" class="btn btn--primary disabled">Website</a>
+                        <a href="https://kala2005.github.io/my_firs_project/" target="_blank" class="btn btn--primary">Website</a>
                     </div>
                 </article> 
                 <article class="profile">
