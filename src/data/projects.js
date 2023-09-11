@@ -5,7 +5,7 @@ export const projectsList = [
         cover: "images/projects/bubble.png",
         technologies: [ { name: "javascript" }, { name: "d3"}, { name: "canvas" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://bubble-three.vercel.app", },
+            // { name: "live", link: "https://bubble-three.vercel.app", },
             { name: "video", link: "https://www.youtube.com/embed/CPNSPGxKN5o", },
         ]
     },
@@ -54,7 +54,7 @@ export const projectsList = [
         cover: "images/projects/equipment.png",
         technologies: [ { name: "javascript" }, { name: "d3"}, { name: "svg" }, { name: "html" }, { name: "css" } ],
         demos: [
-            { name: "live", link: "https://hierarchy.tsogi.net", },
+            // { name: "live", link: "https://hierarchy.tsogi.net", },
             { name: "video", link: "https://www.youtube.com/embed/sG-vJUfbz30", }
         ]
     },
