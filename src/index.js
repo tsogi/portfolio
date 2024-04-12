@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 import Sn124 from './components/Sn124';
 import Jptf03 from './components/Jptf03';
+import Jp_38_6 from './components/Jp_38_6';
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: "/jptf03",
     element: <Jptf03 />,
+  },
+  {
+    path: "/jp_38_6",
+    element: <Jp_38_6 />,
   },
 ]);
 
